@@ -1,0 +1,14 @@
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.exe
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.deps.json
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.runtimeconfig.json
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.runtimeconfig.dev.json
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.dll
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.pdb
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.csproj.AssemblyReference.cache
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.AssemblyInfoInputs.cache
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.AssemblyInfo.cs
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.dll
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.pdb
+C:\Users\ernes\Desktop\Repos\csharp27\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.genruntimeconfig.cache
